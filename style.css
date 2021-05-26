@@ -10,7 +10,8 @@
    display: flex;
    background-color:#84e68c; 
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-   padding: 100px
+   padding: 20px;
+   margin: 30px;
 }
 .first{
     background-color: #8b008b;
